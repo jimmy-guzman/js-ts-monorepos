@@ -148,6 +148,10 @@ Then, go to `types/package.json` and `utils.package.json` and make this small ch
 
 Now, we can go to either of these projects and run `yarn clean` to delete build output, and `yarn build` to make a fresh build
 
+## Further Reading
+
+- https://www.typescriptlang.org/docs/handbook/project-references.html
+
 ---
 
 <p align='right'>
