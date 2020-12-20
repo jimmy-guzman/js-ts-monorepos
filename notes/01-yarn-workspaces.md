@@ -121,6 +121,10 @@ yarn build
 
 you should that a [`packages/types/dist`](../packages/types/dist) is created for you, and there are a few `.js` and `.d.ts` files within it (your build output)
 
+### Further Reading
+
+- https://nodejs.org/api/modules.html#modules_all_together
+
 ---
 
 <p align='right'>
