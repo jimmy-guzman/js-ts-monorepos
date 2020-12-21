@@ -10,6 +10,8 @@ Jest is a great testing tool, and it's really simple to set up for use with Java
 
 Go to each of the subfolders of `packages/` and run
 
+**I disagree with this, allowing projects to have different versions of `jest` defeats the purpose of a monorepo. This should be a workspace devDep. This also applies to babel plugins**
+
 ```sh
 yarn add -D @babel/preset-env @babel/preset-typescript @types/jest jest
 ```
