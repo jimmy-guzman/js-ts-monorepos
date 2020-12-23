@@ -1,11 +1,17 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "npmClient": "yarn",
   "version": "0.2.1",
   "useWorkspaces": true,
-  "nohoist": [
-    "parcel-bundler"
-  ]
+  "nohoist": ["parcel-bundler"],
+  "command": {
+    "version": {
+      "conventionalCommits": true
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "npmClient": "npm",
+      "registry": "http://localhost:4873"
+    }
+  }
 }
