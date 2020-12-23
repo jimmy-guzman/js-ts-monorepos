@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/jimmy-guzman/js-ts-monorepos/compare/v0.2.0...v0.2.1) (2020-12-23)
+
+
+### Bug Fixes
+
+* **types:** prettify ([38d2331](https://github.com/jimmy-guzman/js-ts-monorepos/commit/38d2331d61bac441250549971af526065edfd6d8))
+
+
+
+
+
 # 0.2.0 (2020-12-23)
 
 
