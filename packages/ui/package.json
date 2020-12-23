@@ -1,13 +1,14 @@
 {
   "name": "@shlack/ui",
   "version": "0.0.1",
+  "license": "BSD-2-Clause",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
-    "dev": "node server/server.js",
+    "dev": "node server/server.js --color",
     "lint": "scripty",
     "clean": "rimraf dist *.tsbuildinfo",
     "build": "parcel build index.html",

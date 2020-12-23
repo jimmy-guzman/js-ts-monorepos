@@ -1,6 +1,7 @@
 {
   "name": "@shlack/data",
   "version": "0.0.1",
+  "license": "BSD-2-Clause",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
