@@ -9,6 +9,7 @@
   "scripts": {
     "start": "scripty",
     "build": "scripty",
+    "dev": "scripty",
     "test": "scripty",
     "lint": "scripty",
     "clean": "scripty"
