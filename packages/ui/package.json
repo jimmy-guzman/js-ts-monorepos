@@ -8,6 +8,7 @@
     "access": "public"
   },
   "scripts": {
+    "api-report": "scripty",
     "dev": "node server/server.js --color",
     "lint": "scripty",
     "clean": "rimraf dist *.tsbuildinfo",
